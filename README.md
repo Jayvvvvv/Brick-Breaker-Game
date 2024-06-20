@@ -1,6 +1,6 @@
 # Brick-Breaker-Game
 Created a dynamic brick breaker game featuring intuitive controls and engaging gameplay mechanics. Implemented in Python programming with a focus on performance optimization.
-Tools & Technology: Jupyter, Python
+Tools & Technology:  Python
 
 ![Screenshot 2024-06-20 230403](https://github.com/Jayvvvvv/Brick-Breaker-Game/assets/94219113/5a47a581-887b-4365-89a2-6751fa62e508)
 
